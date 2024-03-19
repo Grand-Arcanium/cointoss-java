@@ -13,7 +13,7 @@ This app is not initially intended to be in a Git repo, so files have to be manu
 Changing how the app can be accessed from the repo may be something I'll update later.
 
 If you wish to try anyway, here is what you need:
-- The project uses IntelliJ IDEA (Java 19 SDK)
+- The project uses IntelliJ IDEA (Java 19 SDK) and requires JavaFX SDK 21
 - There is a RESOURCES File called `resources`: it must be in the same file level as `src` and must be marked as a resource root folder.
   - Right-click on the `resources` folder as shown in the project structure -> `mark directory as` -> `resource root`
 - Build with `CoinToss.java` as the `Main()`
