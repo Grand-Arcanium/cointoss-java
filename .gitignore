@@ -1,6 +1,6 @@
 # Ignore IntelliJ files
-*/idea
+./idea/*
 *.iml
-*/out
+./out/*
 
 # other
